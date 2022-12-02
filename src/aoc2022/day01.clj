@@ -26,7 +26,7 @@
        (take 3)
        (apply +)))
 
-(defn -main [& args]
+(defn -main []
   (println "AOC Day 01")
   (println "Answer to part 1 is " (part-1 (parse-input input)))
   (println "Answer to part 2 is " (part-2 (parse-input input))))

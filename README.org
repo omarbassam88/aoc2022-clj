@@ -1,0 +1,68 @@
+#+title: Advent of Code 2022 in Clojure
+#+author: Omar Bassam
+
+* Advent of Code 2022 in Clojure.
+
+This is a repository for my solutions for the [[https://adventofcode.com/2022][Advent of Code 2022]] in [[https://clojure.org/][Clojure]].
+For the Common Lisp Version click [[https://github.com/omarbassam88/aoc2022-cl][here]].
+
+** Requirements
+
+- [[https://clojure.org/guides/install_clojure][Clojure CLI]]
+- [[https://www.gnu.org/software/emacs/][Emacs]] with [[https://cider.mx/][Cider]] (Optional)
+  
+** Development Setup
+
+clone the repository and in the root directory simply run the command =clj -M:dev= in your terminal followed by the day number.
+
+For example, for day 4 run:
+
+#+begin_src sh
+clj -M:dev DAY
+#+end_src
+
+You Can also run all the tests using the following command:
+
+#+begin_src sh
+clj -M:test
+#+end_src
+
+
+** Progress
+
+- [X] Day 01
+- [X] Day 02
+- [X] Day 03
+- [X] Day 04
+- [ ] Day 05
+- [ ] Day 06
+- [ ] Day 07
+- [ ] Day 08
+- [ ] Day 09
+- [ ] Day 10
+- [ ] Day 11
+- [ ] Day 12
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
+- [ ] Day 25
+- [ ] Day 26
+- [ ] Day 27
+- [ ] Day 28
+- [ ] Day 29
+- [ ] Day 30
+
+** Helpful Resources
+
+- [[https://www.youtube.com/playlist?list=PLbPrugU2oQ8W5qGiiiFJRlQ8vZ8AZXlG8][Fred Overflow Advent of Code 2022]]
+- [[https://www.youtube.com/playlist?list=PLdSfLyn35ej-UL9AuxUvoFXerHac4RYnH][Nikita Prokopov Advent of Code]]
+

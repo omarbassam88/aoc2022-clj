@@ -1,7 +1,6 @@
 #+title: Advent of Code 2022 in Clojure
 #+author: Omar Bassam
 
-* Advent of Code 2022 in Clojure.
 
 This is a repository for my solutions for the [[https://adventofcode.com/2022][Advent of Code 2022]] in [[https://clojure.org/][Clojure]].
 For the Common Lisp Version click [[https://github.com/omarbassam88/aoc2022-cl][here]].
@@ -27,15 +26,14 @@ You Can also run all the tests using the following command:
 clj -M:test
 #+end_src
 
-
 ** Progress
 
 - [X] Day 01
 - [X] Day 02
 - [X] Day 03
 - [X] Day 04
-- [ ] Day 05
-- [ ] Day 06
+- [X] Day 05
+- [X] Day 06
 - [ ] Day 07
 - [ ] Day 08
 - [ ] Day 09

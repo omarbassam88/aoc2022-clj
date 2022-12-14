@@ -37,7 +37,7 @@ clj -M:test
 - [X] Day 07
 - [X] Day 08
 - [X] Day 09
-- [ ] Day 10
+- [X] Day 10
 - [ ] Day 11
 - [ ] Day 12
 - [ ] Day 13

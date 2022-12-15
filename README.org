@@ -17,7 +17,7 @@ clone the repository and in the root directory simply run the command =clj -M:de
 For example, for day 4 run:
 
 #+begin_src sh
-clj -M:dev DAY
+clj -M:dev 4
 #+end_src
 
 You Can also run all the tests using the following command:
@@ -38,7 +38,7 @@ clj -M:test
 - [X] Day 08
 - [X] Day 09
 - [X] Day 10
-- [ ] Day 11
+- [X] Day 11
 - [ ] Day 12
 - [ ] Day 13
 - [ ] Day 14
